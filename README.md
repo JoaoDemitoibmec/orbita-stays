@@ -1,4 +1,4 @@
-# Órbita Stays — plataforma (versão evoluída)
+ # Órbita Stays — plataforma (versão evoluída)
 
 Site estático (HTML, CSS e JavaScript puro). **Não tem etapa de build**: na Vercel, importe a pasta como projeto
 "Other" / Framework Preset: *Other*, deixe *Build Command* e *Output Directory* vazios. Também abre direto no
